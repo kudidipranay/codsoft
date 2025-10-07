@@ -56,7 +56,8 @@
     }
 
     .operator {
-      color: #00ff6e;
+      color: white;
+      background-color: orange;
     }
 
     .equal {
@@ -71,4 +72,5 @@
       color: #ffffff;
       background-color: #ffa502;
     }
+
 
